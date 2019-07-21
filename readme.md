@@ -1,5 +1,9 @@
 # Kyle Simpson: [Deep JS Foundations](https://coursehunters.net/course/glubokie-osnovy-javascript-s-kaylom-simpsonom)
 
+Release date: 17.07.2017
+
+Duration: 09:51:40
+
 Урок 20. Hoisting 00:16:22
 
 Урок 21. Challenge 3 Hoisting 00:00:34
